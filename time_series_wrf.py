@@ -268,7 +268,7 @@ def read_data_and_draw_graph(file,column_rh, date,location):
 
     return data_calc_obs
 
-data_path = '.../Data/4plots/wrfout_d03_2018-01-02/'
+data_path = '.../wrfout_d03_2018-01-02/'
 file_list = glob.glob(data_path+'*ts.dat')
 
 #local time and range limits with positive values in data files calculation
