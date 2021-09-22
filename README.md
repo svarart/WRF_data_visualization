@@ -4,3 +4,4 @@
 
 Скрипт point_wrf.py предназначен для отрисовки двух типов графиков вертикальных уровней, рассчитаных по модели WRF для метеопараметров T, W_DIR, W_SP, а также наблюдений к ним. Первый тип - на одном холсте строятся графики для конкретной станции (https://github.com/svarovskiy/WRF_data_visualization/blob/main/images/pic3.png?raw=true); второй тип - на одном холсте строятся графики для всех станций (https://github.com/svarovskiy/WRF_data_visualization/blob/main/images/pic4.png?raw=true). 
 
+Скрипт surf_wrf.py предназначен для отрисовки площадного распределения метеопараметра T2 и векторного поля скорости ветра, рассчитанных по модели WRF (https://github.com/svarovskiy/WRF_data_visualization/blob/main/images/pic5.png?raw=true).
